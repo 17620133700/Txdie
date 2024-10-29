@@ -73,6 +73,3 @@ if (strpos($_SERVER['HTTP_USER_AGENT'], 'QQ/') || strpos($_SERVER['HTTP_USER_AGE
 ?>
 ```
 改完之后，我进行了一些简单的离线处理，取消了一些没有用的功能，最终大功告成
-
-## 参考来源
-https://www.typecho.wiki/typecho-blocks-qq-and-wechat-builtin-browser-plugin-txdie.html
