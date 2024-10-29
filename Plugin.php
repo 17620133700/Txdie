@@ -2,13 +2,12 @@
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
  * 当使用qq或者微信的内置浏览器打开网站时，发出提示用其他浏览器打开<br>
- * 本插件由<a href="https://www.typecho.wiki" target="_blank">Typecho.wiki</a>负责分发<br>
- * <a href="https://www.typecho.wiki/typecho-blocks-qq-and-wechat-builtin-browser-plugin-txdie.html" target="_blank" style="background: #000;padding: 2px 4px;color: #ffeb00;font-size: 12px;">Txdie插件使用</a> - <a href="https://www.typecho.wiki/typecho-blocks-qq-and-wechat-builtin-browser-plugin-txdie.html#comments" target="_blank" style="background: #000;padding: 2px 4px;color: #ffeb00;font-size: 12px;">Txdie插件Bug反馈</a> - <a href="http://qqdie.com" target="_blank" style="background: #000;padding: 2px 4px;color: #ffeb00;font-size: 12px;">插件作者网站</a> - <a href="https://www.typecho.wiki" target="_blank" style="background: #000;padding: 2px 4px;color: #ffeb00;font-size: 12px;">更多Typecho插件</a>
+ * 
  * 
  * @package Txdie
- * @author QQDIE
+ * @author QQDIE，ByGalxy
  * @version 1.0.0
- * @link http://qqdie.com
+ * @link https://blog.klbbx.cn
  */
 class Txdie_Plugin implements Typecho_Plugin_Interface
 {
